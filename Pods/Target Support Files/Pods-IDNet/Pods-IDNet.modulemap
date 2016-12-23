@@ -1,0 +1,6 @@
+framework module Pods_IDNet {
+  umbrella header "Pods-IDNet-umbrella.h"
+
+  export *
+  module * { export * }
+}
